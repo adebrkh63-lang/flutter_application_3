@@ -1,0 +1,38 @@
+name: menu_makanan_nusantara
+description: Aplikasi Menu Makanan Nusantara dengan tema kuliner Indonesia dan tampilan estetik.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # -----------------------------------------------------
+  # 👇 Tambahkan folder gambar lokal di sini
+  # Pastikan semua nama file sama persis dengan di bawah
+  # -----------------------------------------------------
+  assets:
+    - assets/images/nasi goreng.jpg
+    - assets/images/sate ayam.jpg
+    - assets/images/bakso.jpg
+    - assets/images/rendang.jpg
+    - assets/images/ayam penyet.jpg
+    - assets/images/soto ayam.jpg
+    - assets/images/ikan bandeng goreng.jpg
+    - assets/images/tumis kangkung.jpg
+    - assets/images/tempe mendoan.jpg
+    - assets/images/sambal.jpg
