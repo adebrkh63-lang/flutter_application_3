@@ -32,7 +32,7 @@ Aplikasi **Menu Makanan Nusantara** adalah proyek Flutter yang menampilkan dafta
 
 ## 📸 Screenshot Aplikasi
 
-Berikut link berisi tangkapan layar (UI) dan hasil running aplikasi:
+Berikut link berisi Laporan, tangkapan layar (UI) dan hasil running aplikasi:
 
 👉 **[Lihat Screenshot di Google Drive](https://drive.google.com/drive/folders/1m9zi8e48--FrqScbc2PBTcdjLhDG9U-4?usp=sharing)**  
 ---
