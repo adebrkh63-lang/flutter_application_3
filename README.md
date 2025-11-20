@@ -1,37 +1,38 @@
 # 🍛 Menu Makanan Nusantara
 
-Aplikasi **Menu Makanan Nusantara** adalah aplikasi Flutter yang menampilkan daftar makanan khas Indonesia lengkap dengan deskripsi, harga, rating, serta fitur pemesanan sederhana.  
-Aplikasi ini cocok untuk latihan membuat tampilan **GridView**, **navigasi antar halaman**, dan **pengelolaan state (keranjang belanja)** di Flutter.
+Aplikasi **Menu Makanan Nusantara** adalah proyek Flutter yang menampilkan daftar makanan khas Indonesia dengan fitur pemesanan sederhana seperti aplikasi food delivery. Aplikasi ini dibuat untuk memenuhi tugas **UTS Pemrograman Mobile** oleh **Ade Barkah**.
 
 ---
 
-## ✨ Fitur Utama
+## 📱 Fitur Aplikasi
 
-### 🥘 Daftar Menu Makanan
-- Menampilkan **18 menu makanan khas Indonesia** lengkap dengan nama, gambar, deskripsi, harga, dan rating.
-- Tampilan rapi menggunakan **GridView 2 kolom**.
-- Fitur **pencarian (search bar)** untuk memfilter makanan berdasarkan nama.
+✅ **Tampilan Menu Makanan**
+- Menampilkan 20+ menu khas Nusantara.
+- Gambar makanan asli dari direktori `assets/images`.
+- Deskripsi dan harga tiap makanan.
 
-### 🛒 Fitur Keranjang Belanja
-- Setiap makanan bisa ditambahkan ke keranjang menggunakan tombol **"Tambah ke Pesanan"**.
-- Terdapat **ikon keranjang** di kanan atas AppBar dengan **notifikasi jumlah item**.
-- Halaman keranjang menampilkan:
-  - Daftar makanan yang dipesan
-  - Total harga otomatis
-  - Tombol **hapus semua pesanan**
-  - Tombol **"Pesan Sekarang"** untuk konfirmasi pesanan.
+✅ **Pencarian Cepat**
+- Kolom pencarian untuk menemukan makanan berdasarkan nama.
 
-### ⭐ Rating & Harga
-- Setiap makanan memiliki **rating bintang** dan **harga** yang tampil di bawah gambar.
-- Detail makanan juga menampilkan harga dan rating di halaman deskripsi.
+✅ **Detail Makanan**
+- Menampilkan deskripsi lengkap, rating, dan tombol untuk menambah ke pesanan.
 
-### 👤 Profil Pembeli
-- Ikon profil di kanan atas menampilkan **popup profil pembeli**:
-  - Foto pembeli
-  - Nama dan alamat
-  - Tombol tutup profil
+✅ **Keranjang Pesanan**
+- Menampilkan daftar pesanan pengguna.
+- Menghitung total harga otomatis.
+- Fitur hapus item dan konfirmasi pesanan.
+
+✅ **Profil Pembeli**
+- Menampilkan nama, alamat, dan foto profil pembeli.
+
+✅ **Bottom Navigation Bar**
+- Navigasi antar halaman: Home 🍽️, Cart 🛒, dan Profile 👤.
 
 ---
 
-## 🧱 Struktur Proyek
+## 📸 Screenshot Aplikasi
 
+Berikut link berisi tangkapan layar (UI) dan hasil running aplikasi:
+
+👉 **[Lihat Screenshot di Google Drive](https://drive.google.com/drive/folders/1m9zi8e48--FrqScbc2PBTcdjLhDG9U-4?usp=sharing)**  
+---
